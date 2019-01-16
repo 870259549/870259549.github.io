@@ -2,7 +2,7 @@
 title: ZJY Blog
 SEOTitle: 张君宇的博客 | ZJY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email:836599433@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 张君宇的博客, zhangjunyu, 张君宇, bigdatas, python, linux"
 url: "http://870259549.github.io"          # your host, for absolute URL
@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
+# weibo_username:     870259549
+zhihu_username:     870259549
+github_username:    870259549
+facebook_username:  870259549.qiu.7
 jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#twitter_username:   870259549
 
 
 
@@ -65,8 +65,8 @@ gitalk:
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  owner: 870259549    #github用户名
+  admin: 870259549
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
